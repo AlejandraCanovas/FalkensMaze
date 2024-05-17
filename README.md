@@ -1,8 +1,13 @@
 #FalkensMaze
 Descripción
 FalkensMaze es una aplicación de escritorio escrita en JavaFX que permite crear y editar laberintos personalizables.
+
+
 ![Screenshot_20240517_172522](https://github.com/AlejandraCanovas/FalkensMaze/assets/158309284/9228bcbf-add6-400a-b471-64688a94198b)
+
 ![Screenshot_20240517_172653](https://github.com/AlejandraCanovas/FalkensMaze/assets/158309284/f8d372c5-55c3-4b1d-8a2a-1979260c6e77)
+
+
 Funcionalidades principales:
 Elementos de la Interfaz:
 -La clase utiliza JavaFX para crear la interfaz gráfica de usuario (GUI).
